@@ -7,5 +7,7 @@ Este repositório contém:
 Requisitos:
 - Java 11+ e Maven
 No diretório do projeto:
+
 mvn package
+
 java -cp target/feira-subscription-1.0.jar br.ufm.feira.App
